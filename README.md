@@ -1,7 +1,7 @@
-# Flag Guessing Game
+# TO-DO List
 
 ## Description
-Flag Guessing Game
+TO-DO List Web App
 
 ## Getting Started
 
